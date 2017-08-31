@@ -1,0 +1,10 @@
+<testsuite name="Mocha Tests" tests="8" failures="0" errors="0" skipped="0" timestamp="Mon, 28 Aug 2017 08:32:54 GMT" time="0.029">
+<testcase classname="login" name="Do not get the users for null emails " time="0.009"/>
+<testcase classname="login" name="not null emails didn't receive noEmail message" time="0.005"/>
+<testcase classname="login" name="There is no matched user" time="0.001"/>
+<testcase classname="login" name="If The password is correct" time="0.001"/>
+<testcase classname="login" name="If The password is Wrong" time="0.001"/>
+<testcase classname="signup" name="get users with same email" time="0.001"/>
+<testcase classname="signup" name="stylist and jobtype creation is held" time="0.002"/>
+<testcase classname="signup" name="salon and jobtype creation is held" time="0.001"/>
+</testsuite>
